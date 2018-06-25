@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://o-date.github.io/support/home/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/annotation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/classroom/</loc>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/contribute/</loc>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/dhbox/</loc>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/features/</loc>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/jupyter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://o-date.github.io/support/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

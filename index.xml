@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started with ODATE</title>
-    <link>http://o-date.github.io/support/</link>
+    <link>https://o-date.github.io/support/</link>
     <description>Recent content on Getting Started with ODATE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Feb 2017 07:51:49 +0100</lastBuildDate>
     
-	<atom:link href="http://o-date.github.io/support/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://o-date.github.io/support/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>http://o-date.github.io/support/home/</link>
+      <link>https://o-date.github.io/support/home/</link>
       <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
       
-      <guid>http://o-date.github.io/support/home/</guid>
+      <guid>https://o-date.github.io/support/home/</guid>
       <description>This supporting website explains how to write for ODATE, use ODATE with your class, and other technical pieces that will enhance your use of ODATE
  Thank you for your interest in ODATE!
 Some of its features:
@@ -25,69 +25,69 @@ Some of its features:
     
     <item>
       <title></title>
-      <link>http://o-date.github.io/support/annotation/</link>
+      <link>https://o-date.github.io/support/annotation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://o-date.github.io/support/annotation/</guid>
+      <guid>https://o-date.github.io/support/annotation/</guid>
       <description>Using Hypothesis Use private reading groups with your students to identify and discuss the text. Threaded coversations each have a unique URL to the annotation; these can also be aggregated on student run blogs. Here are some examples of in-class use.
  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://o-date.github.io/support/classroom/</link>
+      <link>https://o-date.github.io/support/classroom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://o-date.github.io/support/classroom/</guid>
+      <guid>https://o-date.github.io/support/classroom/</guid>
       <description>Integrating in the classroom quick summary
  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://o-date.github.io/support/contact/</link>
+      <link>https://o-date.github.io/support/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://o-date.github.io/support/contact/</guid>
+      <guid>https://o-date.github.io/support/contact/</guid>
       <description>For more info or help contact shawn</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://o-date.github.io/support/contribute/</link>
+      <link>https://o-date.github.io/support/contribute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://o-date.github.io/support/contribute/</guid>
+      <guid>https://o-date.github.io/support/contribute/</guid>
       <description>How to Add to the Material the First Time. Short version:
  Fork the repo Edit the relevant files Make a pull request.   Find the o-date/draft repo: Hit the &amp;lsquo;fork&amp;rsquo; button to make a copy: The files you want to edit all end in .rmd. do not edit anything else. Try not to edit anything someone else is currently working on. Note in the screenshot it says &amp;lsquo;this branch is even with o-date:gh-pages&amp;rsquo;.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://o-date.github.io/support/dhbox/</link>
+      <link>https://o-date.github.io/support/dhbox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://o-date.github.io/support/dhbox/</guid>
+      <guid>https://o-date.github.io/support/dhbox/</guid>
       <description>Use our code with DHBox quick summary
  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://o-date.github.io/support/features/</link>
+      <link>https://o-date.github.io/support/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://o-date.github.io/support/features/</guid>
+      <guid>https://o-date.github.io/support/features/</guid>
       <description>#blah
 blahder blah blah</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://o-date.github.io/support/jupyter/</link>
+      <link>https://o-date.github.io/support/jupyter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://o-date.github.io/support/jupyter/</guid>
+      <guid>https://o-date.github.io/support/jupyter/</guid>
       <description>How Jupyter Works quick summary
  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
     </item>

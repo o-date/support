@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Open+Sans:400,400i,600,600i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,700,700i|Open+Sans:400,400i,600,600i,700,700i');
+
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
 
 html,
 body {
   background: #fff;
   color: #333;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #container {
@@ -28,8 +30,9 @@ a:hover {
 }
 
 #site-title {
-  font-weight: 700;
+  font-weight: 300;
   font-size: xx-large;
+  font-family: "Josefin Sans"
 }
 
 #site-title a:link,

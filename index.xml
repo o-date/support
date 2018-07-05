@@ -65,8 +65,8 @@ On Mastodon at
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/contribute/</guid>
-      <description>How to Add and Suggest Changes. Short version:
- Fork the repo / Sync the repo Edit the relevant files Make a pull request.   The easy way is to annotate the text with the Hypothes.is toolbar - the strip down the right hand side of the text. For more substantial corrections, additions, or suggestions (including on the notebooks), a slightly more complicated flow can be used. We are also happy to receive suggestions via email, word documents, or whatever works for you.</description>
+      <description>How to Add and Suggest Changes. _Short version:
+ Fork the repo / Sync the repo Edit the relevant files Make a pull request._   The easy way is to annotate the text with the Hypothes.is toolbar - the strip down the right hand side of the text. For more substantial corrections, additions, or suggestions (including on the notebooks), a slightly more complicated flow can be used. We are also happy to receive suggestions via email, word documents, or whatever works for you.</description>
     </item>
     
     <item>
@@ -81,22 +81,25 @@ On Mastodon at
     
     <item>
       <title></title>
-      <link>https://o-date.github.io/support/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://o-date.github.io/support/features/</guid>
-      <description>#blah
-blahder blah blah</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://o-date.github.io/support/jupyter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/jupyter/</guid>
       <description>How Jupyter Works Jupyter notebooks are a framework for sharing interactive computing across a variety of programming languages. They can run on your own machine, or be shared via the web. When used in conjunction with Binder, they become the interface for a web-accessed virtual computing environment.
  Interactive notebooks for running and sharing code have been a feature of certain computing languages for some time. The Jupyter Project emerged out of one such approach for sharing Python work, called &amp;lsquo;ipython&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://o-date.github.io/support/notebooks-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://o-date.github.io/support/notebooks-toc/</guid>
+      <description>List of ODATE Notebooks These links will launch the notebooks using Binder
+ Introduction to Jupyter Notebooks 
+Repository
+Contains:
+ Welcome.ipynb demo-R.ipynb  This notebook contains everything necessary to set up a Github repo that can become the basis of a Binder. Consult the repository&amp;rsquo;s Readme file to see how it can be customized for your own particular usage. Fork (make a copy) of this repo as often as is necessary!</description>
     </item>
     
   </channel>

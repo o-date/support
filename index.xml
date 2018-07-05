@@ -17,10 +17,10 @@
       <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
       
       <guid>https://o-date.github.io/support/home/</guid>
-      <description>This supporting website explains how to write for ODATE, use ODATE with your class, and other technical pieces that will enhance your use of ODATE
+      <description>This supporting website explains how to write for ODATE, use ODATE with your class, and other technical pieces that will enhance your use of ODATE. Read the textbook. Run code in a notebook
  Thank you for your interest in ODATE!
 Some of its features:
- Responsive design &amp;ndash; view it on mobile computational environments using Jupyter + Binder Remixable text Collaborative writing process Collaborative reading   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</description>
+ Responsive design &amp;ndash; view it on mobile computational environments using Jupyter + Binder Remixable text Collaborative writing process Collaborative reading  We wrote this text with a particular kind of student in mind.</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@ Some of its features:
       
       <guid>https://o-date.github.io/support/annotation/</guid>
       <description>Using Hypothesis Use private reading groups with your students to identify and discuss the text. Threaded coversations each have a unique URL to the annotation; these can also be aggregated on student run blogs. Here are some examples of in-class use.
- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</description>
+ When you read the text online, do you notice that stripe down the side of the screen at the right? That&amp;rsquo;s a tool-bar for annotating the text, using a tool called Hypothes.</description>
     </item>
     
     <item>
@@ -39,8 +39,8 @@ Some of its features:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/classroom/</guid>
-      <description>Integrating in the classroom quick summary
- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+      <description>Integrating in the classroom This textbook and associated notebooks can be used piecemeal to support everything from a small workshop to a full credit course.
+ Each section in the textbook contains a general discussion of the issue at hand. Each ties to some of the deeper literature, and sets the student up for further independent inquiry. Each section includes a variety of exercises to drive the points home. Not every exercise is necessarily a computational exercise.</description>
     </item>
     
     <item>
@@ -49,7 +49,14 @@ Some of its features:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/contact/</guid>
-      <description>For more info or help contact shawn</description>
+      <description>For more info or help Run into trouble? Something not working? Using ODATE in your class and you&amp;rsquo;d like to share how it went? Let us know!
+ Contact:
+Shawn Graham
+shawn dot graham at carleton dot ca
+On Twitter at
+@electricarchaeo
+On Mastodon at
+@electricarchaeo@scholar.social</description>
     </item>
     
     <item>
@@ -58,8 +65,8 @@ Some of its features:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/contribute/</guid>
-      <description>How to Add to the Material the First Time. Short version:
- Fork the repo Edit the relevant files Make a pull request.   Find the o-date/draft repo: Hit the &amp;lsquo;fork&amp;rsquo; button to make a copy: The files you want to edit all end in .rmd. do not edit anything else. Try not to edit anything someone else is currently working on. Note in the screenshot it says &amp;lsquo;this branch is even with o-date:gh-pages&amp;rsquo;.</description>
+      <description>How to Add and Suggest Changes. Short version:
+ Fork the repo / Sync the repo Edit the relevant files Make a pull request.   The easy way is to annotate the text with the Hypothes.is toolbar - the strip down the right hand side of the text. For more substantial corrections, additions, or suggestions (including on the notebooks), a slightly more complicated flow can be used. We are also happy to receive suggestions via email, word documents, or whatever works for you.</description>
     </item>
     
     <item>
@@ -68,8 +75,8 @@ Some of its features:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/dhbox/</guid>
-      <description>Use our code with DHBox quick summary
- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+      <description>Use our code with DHBox DHBox is a fully-powered linux virtual computer, accessible through the browser. It can persist up to one month, and so might be a good choice for virtual computing in a course work setting.
+ DHBox is a &amp;lsquo;digital humanities laboratory in the cloud&amp;rsquo; by the Graduate Centre at CUNY. Unlike Binder, one creates an account with DHBox and so the changes one makes persist between sessions.</description>
     </item>
     
     <item>
@@ -88,8 +95,8 @@ blahder blah blah</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/jupyter/</guid>
-      <description>How Jupyter Works quick summary
- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+      <description>How Jupyter Works Jupyter notebooks are a framework for sharing interactive computing across a variety of programming languages. They can run on your own machine, or be shared via the web. When used in conjunction with Binder, they become the interface for a web-accessed virtual computing environment.
+ Interactive notebooks for running and sharing code have been a feature of certain computing languages for some time. The Jupyter Project emerged out of one such approach for sharing Python work, called &amp;lsquo;ipython&amp;rsquo;.</description>
     </item>
     
   </channel>

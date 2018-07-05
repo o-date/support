@@ -74,12 +74,18 @@
 <h2 id="how-jupyter-works">How Jupyter Works</h2>
 
 <div id="summary">
-  <p><em>quick summary</em></p>
+  <p><em>Jupyter notebooks are a framework for sharing interactive computing across a variety of programming languages. They can run on your own machine, or be shared via the web. When used in conjunction with Binder, they become the interface for a web-accessed virtual computing environment.</em></p>
 
 </div>
 
 
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>Interactive notebooks for running and sharing code have been a feature of certain computing languages for some time. The <a href="http://jupyter.org">Jupyter Project</a> emerged out of one such approach for sharing Python work, called &lsquo;ipython&rsquo;. The <a href="https://en.wikipedia.org/wiki/IPython#Project_Jupyter">Wikipedia page</a> (as so often with tech-based things) is quite good on the details.</p>
+
+<p>When one starts a Jupyter notebook on her computer, the environment searches for &lsquo;kernels&rsquo; that tells Jupyter what languages are available. Jupyter understands Julia, Python, and R (hence JU-PYT-R) by default. Other kernels can be installed. It then opens a browser based interface that includes a file manager (showing the files in the directory where we started Jupyter up, for a given session), a terminal window, and the notebook environment itself. When we click on &lsquo;new&rsquo; we can select which kernel - which language - we want the notebook to be written in. Notebooks themselves are composed of &lsquo;blocks&rsquo;. Each block can be either a code block, or a text block (using the conventions of markdown, eg <code>#</code> for headings, <code>+</code> for bullets and so on). Each block can then be run by pressing the play button (a triangle icon) or stopped (the square icon). When a block is running or executing code, an asterisk appears to the left of the block. The results of a block are printed underneath the block. The notebooks may be saved. If they are uploaded to a repository in github, they will display correctly. (They will have the <code>.ipynb</code> file extension).</p>
+
+<p>A Github repository containing Jupyter notebooks can be shared using <a href="https://mybinder.org">Binder</a>. You give the URL to your Github repository to Binder, and Binder will in turn give you a unique URL to a virtual computer preloaded with the bits and pieces that will run your notebooks in a live environment. <strong>NB!</strong> Binder is still in beta, meaning, they&rsquo;re still working out the kinks. A Binder environment will time out after 10 minutes of inactivity.</p>
+
+<p>In ODATE, we link to the Bindered powered versions of our notebooks - even if you&rsquo;re using a tablet, you can still run the code! If you wish to run them on your own machine, download Jupyter and <a href="https://jupyter.org/install.html">get started</a>.</p>
 
 
         </div>

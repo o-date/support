@@ -96,8 +96,7 @@ On Mastodon at
       
       <guid>https://o-date.github.io/support/notebooks-toc/</guid>
       <description>List of ODATE Notebooks These links will launch the notebooks using Binder
- Introduction to Jupyter Notebooks 
-Repository
+ Introduction to Jupyter Notebooks  Repository
 Contains:
  Welcome.ipynb demo-R.ipynb  This notebook contains everything necessary to set up a Github repo that can become the basis of a Binder. Consult the repository&amp;rsquo;s Readme file to see how it can be customized for your own particular usage. Fork (make a copy) of this repo as often as is necessary!</description>
     </item>

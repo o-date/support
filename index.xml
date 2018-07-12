@@ -95,10 +95,10 @@ On Mastodon at
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://o-date.github.io/support/notebooks-toc/</guid>
-      <description>List of ODATE Notebooks These links will launch the notebooks using Binder
+      <description>List of ODATE Notebooks These links will launch the notebooks using Binder. It can sometimes take a few moments for the environment to launch; be patient. Click on the &amp;lsquo;status&amp;rsquo; link when launching to see the environment build.
  Introduction to Jupyter Notebooks  Repository
 Contains:
- Welcome.ipynb demo-R.ipynb  This notebook contains everything necessary to set up a Github repo that can become the basis of a Binder. Consult the repository&amp;rsquo;s Readme file to see how it can be customized for your own particular usage. Fork (make a copy) of this repo as often as is necessary!</description>
+ Welcome.ipynb demo-R.ipynb  This notebook contains everything necessary to set up a Github repo that can become the basis of a Binder. Consult the repository&amp;rsquo;s Readme file to see how it can be customized for your own particular usage.</description>
     </item>
     
   </channel>
